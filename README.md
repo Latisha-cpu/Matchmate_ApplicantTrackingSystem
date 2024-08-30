@@ -17,7 +17,7 @@ Matchmate_ATS is an Applicant Tracking System (ATS) designed to enhance resume e
 6)User Feedback: Displays recommendations based on the match percentage.
 
 
-# Installation and usage - 
+## Installation and usage - 
 
 Follow these steps - 
 
@@ -26,11 +26,11 @@ Follow these steps -
 2)Create a .env file in the root directory and add your Google API key:
   GOOGLE_API_KEY=your_google_api_key
 
-# Usage
+## Usage
 Run the Streamlit App:
 streamlit run app.py
 
-# Upload Resume and Input Job Description:
+## Upload Resume and Input Job Description:
 
 1)Paste the job description in the provided text area.
 
@@ -39,7 +39,7 @@ streamlit run app.py
 3)Click on the "Submit" button to process the input.
 
 
-# Project Structure:
+## Project Structure:
 
 app.py: Main Streamlit application file.
 
@@ -47,7 +47,7 @@ requirements.txt: List of required Python packages.
 
 .env: Configuration file for environment variables.
 
-# Dependencies
+## Dependencies
 
 streamlit
 
